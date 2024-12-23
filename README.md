@@ -9,3 +9,6 @@
 ### Some of my work recently
 
 - [Decentralized Neural Traffic Orchestration](https://github.com/craigxiangfu/dnc/) in the Fall 2024 CDS DS 340 Introduction to Machine Learning and AI course
+- ChessML
+- "Transfer between Different Compositional Generalization Problems"
+- Something related to N400
