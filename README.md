@@ -8,7 +8,8 @@
 
 ### Some of my work recently
 
-- [Decentralized Neural Traffic Orchestration](https://github.com/craigxiangfu/dnc/) in the Fall 2024 CDS DS 340 Introduction to Machine Learning and AI course
-- ChessML
-- "Transfer between Different Compositional Generalization Problems"
+- [Decentralized Neural Traffic Orchestration](https://github.com/modulariumresearch/dnc) in the Fall 2024 CDS DS 340 Introduction to Machine Learning and AI course
+- [Sodoku Reasoning](https://github.com/modulariumresearch/sudoku-reasoning)
+- Transfer between Different Compositional Generalization Problems
 - Something related to N400
+- ChessML
